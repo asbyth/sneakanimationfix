@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "sneakanimationfix",
+    "name": "Sneak Animation Fix",
+    "description": "reverts / updates the sneak animation to be the same as the 1.7- / 1.9+ sneaking animation",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["asbyth"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
